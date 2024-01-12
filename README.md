@@ -12,7 +12,7 @@ SoC     | Snapdragon® 685 (SM6225)
 CPU     | Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)
 GPU     | Adreno 610
 Memory  | 4/6/8 GB RAM
-Shipped Android Version | 13.0 with MIUI 14
+Shipped Android Version | 13.0 with MIUI 14 (upgraded to HyperOS Global)
 Storage | 64/128 GB
 Battery | Li-Ion 5000 mAh, non-removable
 Display | 1080 x 2400 pixels, 20:9 ratio (~395 ppi density), 6.67 inches, AMOLED, 120Hz, Dolby Vision, 700 nits (HBM), 1200 nits (peak)
